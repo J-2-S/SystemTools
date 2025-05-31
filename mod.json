@@ -1,0 +1,18 @@
+{
+    "name":"SystemTools",
+    "version":"1.0.0",
+    "os":"any",
+    "api_version":">=1.0.0",
+    "functions": [
+        {
+            "name": "shutdown",
+            "args": {},
+            "description": "Shutdowns the current system"
+        },
+        {
+            "name": "restart",
+            "args": {},
+            "description": "Restarts the current system"
+        }
+    ]
+}
